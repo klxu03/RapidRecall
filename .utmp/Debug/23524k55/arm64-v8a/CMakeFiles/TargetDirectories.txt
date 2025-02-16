@@ -1,0 +1,5 @@
+/Users/kevin/code/unity/experiments/XR Ghost Game/.utmp/Debug/23524k55/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/kevin/code/unity/experiments/XR Ghost Game/.utmp/Debug/23524k55/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/kevin/code/unity/experiments/XR Ghost Game/.utmp/Debug/23524k55/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/kevin/code/unity/experiments/XR Ghost Game/.utmp/Debug/23524k55/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/kevin/code/unity/experiments/XR Ghost Game/.utmp/Debug/23524k55/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

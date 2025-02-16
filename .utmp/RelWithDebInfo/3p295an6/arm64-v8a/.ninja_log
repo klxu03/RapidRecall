@@ -1,0 +1,10 @@
+# ninja log v5
+2	369	1739657706045964741	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	1cfe69799000ce48
+1	373	1739657706050362635	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bd9881cf0cf0e981
+0	383	1739657706061188932	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5575c15ca394f35b
+2	390	1739657706067760294	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5a23900e62bdbfb0
+2	426	1739657706103724743	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c1737347d3ac4068
+1	461	1739657706137997018	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5a42d0adbdadddc4
+1	544	1739657706221210674	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d1d13e045bdaa291
+0	607	1739657706283138820	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	673371aa9a13ad0b
+607	709	1739657706382741755	/Users/kevin/code/unity/experiments/XR Ghost Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3p295an6/obj/arm64-v8a/libgame.so	ffc22e60874906d0

@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{58BB7C2F-AB96-22CB-9A29-30E86BC3F8DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/McqCube.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RayGun.cs" Line="38" Column="34" />
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.universal/Shaders/Lit.shader" Line="9" Column="9" />
+      <File FileName="Assets/Samples/StrikerVR StrikerLink SDK/0.9.0/Samples (URP)/Blasters/Mavrik_Classic/Scripts/MavrikController.cs" Line="24" Column="27" />
+      <File FileName="Assets/Samples/StrikerVR StrikerLink SDK/0.9.0/Samples (Shared)/Scripts/BasicProjectile.cs" Line="71" Column="2" />
+      <File FileName="Assets/Scripts/MoveTowardsUser.cs" Line="8" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XR Ghost Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Samples" expanded="True">
+                <Node name="StrikerVR StrikerLink SDK" expanded="True">
+                  <Node name="0.9.0" expanded="True">
+                    <Node name="Samples (Shared)" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                    <Node name="Samples (URP)" expanded="True">
+                      <Node name="Blasters" expanded="True">
+                        <Node name="Mavrik_Classic" expanded="True">
+                          <Node name="Scripts" expanded="True" />
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="McqCube.cs" selected="True" />
+              </Node>
+              <Node name="TextMesh Pro" expanded="True">
+                <Node name="Shaders" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b52f54d6-3eef-4b9c-8461-2e9b8dcd17bf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
